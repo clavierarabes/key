@@ -35,8 +35,7 @@ function runScript() {
     createKeywordLink('Hypoallergenic Breeds', 'https://www.chiotchaton.com/2023/11/Beyond-Allergies-Hypoallergenic-Breeds.html');
     createKeywordLink('Hypoallergenic Dog Breeds', 'https://www.chiotchaton.com/2023/11/Beyond-the-Fluff-Hypoallergenic-Hounds.html');
     createKeywordLink('Large Dog Breeds', 'https://www.chiotchaton.com/2023/11/Big-and-Bold-Dog-Breeds.html');
-    createKeywordLink('Lifestyles', 'https://www.chiotchaton.com/2023/11/Choosing-Companions-Best-Breeds-Different-Lifestyles.html');
-    createKeywordLink('Dog Dynamics', 'https://www.chiotchaton.com/2023/11/Designer-Dog-Dynamics-Crossbreeding.html');
+        createKeywordLink('Dog Dynamics', 'https://www.chiotchaton.com/2023/11/Designer-Dog-Dynamics-Crossbreeding.html');
     createKeywordLink('Crossbreeding', 'https://www.chiotchaton.com/2023/11/Designer-Dogs-101-Crossbreeding.html');
     createKeywordLink('crossbreeding', 'https://www.chiotchaton.com/2023/11/Designer-Dogs-in-Focus-Crossbreeding-Trends.html');
     createKeywordLink('Crossbreeding', 'https://www.chiotchaton.com/2023/11/Designer-Dogs-on-Display-Crossbreeding-Trends.html');
