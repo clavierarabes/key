@@ -30,6 +30,7 @@ function runScript() {
     // Ajoutez vos mots-clés et liens ici
     createKeywordLink('English Setter', 'https://www.chiotchaton.com/2024/01/the-graceful-and-intelligent-english.html');
     createKeywordLink('Dog breeds', 'https://www.chiotchaton.com');
+    createKeywordLink('Eskimo Dog', 'https://www.chiotchaton.com/2024/01/the-incredible-adaptability-of-eskimo.html');
     // Ajoutez autant de mots-clés et de liens que nécessaire
 }
 
