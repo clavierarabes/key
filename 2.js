@@ -65,7 +65,7 @@ function runScript() {
     createKeywordLink('Big dog', 'https://www.chiotchaton.com/2023/11/Tiny-Tails-Big-Hearts.html');
     createKeywordLink('Small Dog', 'https://www.chiotchaton.com/2023/11/Tiny-Wonders-Small-Dog-Breeds.html');
     createKeywordLink('Bold dog', 'https://www.chiotchaton.com/2023/11/Tiny-but-Tough-Bold-Small-Dog-Breeds.html');
-    createKeywordLink('Canine', 'https://www.chiotchaton.com/2023/11/Working-Together-Human-Canine-Bond.html');
+    createKeywordLink('Human Canine', 'https://www.chiotchaton.com/2023/11/Working-Together-Human-Canine-Bond.html');
     createKeywordLink('Working Wonders', 'https://www.chiotchaton.com/2023/11/Working-Wonders-Many-Roles-Dogs.html');
     createKeywordLink('boston terriers', 'https://www.chiotchaton.com/2023/12/10-fun-facts-about-boston-terriers-you.html');
     createKeywordLink('Bull Terriers', 'https://www.chiotchaton.com/2023/12/10-things-you-need-to-know-about-bull.html');
