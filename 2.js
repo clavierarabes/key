@@ -142,6 +142,11 @@ function runScript() {
     createKeywordLink('English Toy Spaniel', 'https://www.chiotchaton.com/2024/01/the-history-and-characteristics-of.html');
     createKeywordLink('Eskimo dog', 'https://www.chiotchaton.com/2024/01/the-incredible-adaptability-of-eskimo.html');
     createKeywordLink('Foxhound', 'https://www.chiotchaton.com/2024/01/uncovering-history-and-characteristics.html');
+    createKeywordLink('Finnish Lapphund', 'https://www.chiotchaton.com/2024/01/the-finnish-lapphund-versatile-and.html');
+createKeywordLink('flat-coated retriever', 'https://www.chiotchaton.com/2024/01/the-versatile-and-lovable-flat-coated.html');
+createKeywordLink('French Bulldog', 'https://www.chiotchaton.com/2024/01/the-ultimate-guide-to-french-bulldog.html');
+createKeywordLink('German Pinscher', 'https://www.chiotchaton.com/2024/01/the-german-pinscher-versatile-and-loyal.html');
+createKeywordLink('German Shepherd', 'https://www.chiotchaton.com/2024/01/the-loyal-and-intelligent-german.html');
     // Ajoutez autant de mots-clés et de liens que nécessaire
 }
 
