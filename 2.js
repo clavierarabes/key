@@ -71,7 +71,7 @@ function runScript() {
     createKeywordLink('boston terriers', 'https://www.chiotchaton.com/2023/12/10-fun-facts-about-boston-terriers-you.html');
     createKeywordLink('Bull Terriers', 'https://www.chiotchaton.com/2023/12/10-things-you-need-to-know-about-bull.html');
     createKeywordLink('Bernese Mountain', 'https://www.chiotchaton.com/2023/12/10-things-you-need-to-know-about.html');
-    createKeywordLink('Choosing Companions', 'https://www.chiotchaton.com/2023/12/Choosing-Companions-Matching-Breeds-Lifestyle.html');
+    createKeywordLink('Companions', 'https://www.chiotchaton.com/2023/12/Choosing-Companions-Matching-Breeds-Lifestyle.html');
     createKeywordLink('Best Breeds', 'https://www.chiotchaton.com/2023/12/Family-Favorites-Best-Breeds-Happy-Family-Life.html');
     createKeywordLink('Mid Sized', 'https://www.chiotchaton.com/2023/12/Medium-Mastery-Navigating-Mid-Sized-Dog-Breeds.html');
     createKeywordLink('affenpinscher', 'https://www.chiotchaton.com/2023/12/affenpinscher.html');
