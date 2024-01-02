@@ -74,7 +74,7 @@ function runScript() {
     createKeywordLink('Companions', 'https://www.chiotchaton.com/2023/12/Choosing-Companions-Matching-Breeds-Lifestyle.html');
     createKeywordLink('Best Breeds', 'https://www.chiotchaton.com/2023/12/Family-Favorites-Best-Breeds-Happy-Family-Life.html');
     createKeywordLink('Family', 'https://www.chiotchaton.com/2023/12/Family-Friendly-Fidos-Best-Dog-Breeds-Happy-Family-Life.html');
-    createKeywordLink('Medium', 'https://www.chiotchaton.com/2023/12/Medium-Marvels-Perfect-Mid-Sized-Companion.html');
+    createKeywordLink('Medium Marvels', 'https://www.chiotchaton.com/2023/12/Medium-Marvels-Perfect-Mid-Sized-Companion.html');
     createKeywordLink('Mid Sized', 'https://www.chiotchaton.com/2023/12/Medium-Mastery-Navigating-Mid-Sized-Dog-Breeds.html');
     createKeywordLink('affenpinscher', 'https://www.chiotchaton.com/2023/12/affenpinscher.html');
     createKeywordLink('Anatolian Shepherd', 'https://www.chiotchaton.com/2023/12/anatolian-shepherd-dog-powerful-and.html');
