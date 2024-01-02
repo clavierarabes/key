@@ -5,9 +5,8 @@ function createKeywordLink(keyword, link) {
     var regex = new RegExp('\\b' + keyword + '\\b', 'gi');
     var paragraphs = document.getElementsByTagName('p');
 
-    var keywordFound = false; // Utilisé pour vérifier si le mot-clé a déjà été trouvé
-
     for (var i = 0; i < paragraphs.length; i++) {
+        var keywordFound = false; // Réinitialiser pour chaque paragraphe
         var paragraph = paragraphs[i];
         var paragraphContent = paragraph.innerHTML;
 
