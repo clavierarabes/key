@@ -1,5 +1,3 @@
-// Nom du fichier : 1.js
-
 // Fonction pour créer un lien avec mot-clé
 function createKeywordLink(keyword, link) {
     var regex = new RegExp('\\b' + keyword + '\\b', 'gi');
@@ -76,11 +74,10 @@ function runScript() {
     createKeywordLink('Best Breeds', 'https://www.chiotchaton.com/2023/12/Family-Favorites-Best-Breeds-Happy-Family-Life.html');
     createKeywordLink('Family', 'https://www.chiotchaton.com/2023/12/Family-Friendly-Fidos-Best-Dog-Breeds-Happy-Family-Life.html');
     createKeywordLink('Medium', 'https://www.chiotchaton.com/2023/12/Medium-Marvels-Perfect-Mid-Sized-Companion.html');
-    createKeywordLink('Mid-Sized', 'https://www.chiotchaton.com/2023/12/Medium-Mastery-Navigating-Mid-Sized-Dog-Breeds.html');
-    createKeywordLink('Mid-Sized Breed', 'https://www.chiotchaton.com/2023/12/Medium-Mastery-Right-Mid-Sized-Breed.html');
+    createKeywordLink('Mid Sized', 'https://www.chiotchaton.com/2023/12/Medium-Mastery-Navigating-Mid-Sized-Dog-Breeds.html');
+    createKeywordLink('Mid Sized Breed', 'https://www.chiotchaton.com/2023/12/Medium-Mastery-Right-Mid-Sized-Breed.html');
     createKeywordLink('Marvels', 'https://www.chiotchaton.com/2023/12/Medium-Sized-Marvels-Versatility-Mid-Sized-Breeds.html');
     createKeywordLink('Marvel', 'https://www.chiotchaton.com/2023/12/Medium-Sized-Marvels-Versatility-Mid-Sized-Breeds_01028749264.html');
-    createKeywordLink('Mid-Sized Breed', 'https://www.chiotchaton.com/2023/12/Perfect-Fit-Right-Mid-Sized-Breed-For-You.html');
     createKeywordLink('affenpinscher', 'https://www.chiotchaton.com/2023/12/affenpinscher.html');
     createKeywordLink('Anatolian Shepherd', 'https://www.chiotchaton.com/2023/12/anatolian-shepherd-dog-powerful-and.html');
     createKeywordLink('insurance', 'https://www.chiotchaton.com/2023/12/breeds-insurance-needs.html');
