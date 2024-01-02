@@ -74,7 +74,6 @@ function runScript() {
     createKeywordLink('Companions', 'https://www.chiotchaton.com/2023/12/Choosing-Companions-Matching-Breeds-Lifestyle.html');
     createKeywordLink('Best Breeds', 'https://www.chiotchaton.com/2023/12/Family-Favorites-Best-Breeds-Happy-Family-Life.html');
     createKeywordLink('Family', 'https://www.chiotchaton.com/2023/12/Family-Friendly-Fidos-Best-Dog-Breeds-Happy-Family-Life.html');
-    createKeywordLink('Medium Marvels', 'https://www.chiotchaton.com/2023/12/Medium-Marvels-Perfect-Mid-Sized-Companion.html');
     createKeywordLink('Mid Sized', 'https://www.chiotchaton.com/2023/12/Medium-Mastery-Navigating-Mid-Sized-Dog-Breeds.html');
     createKeywordLink('affenpinscher', 'https://www.chiotchaton.com/2023/12/affenpinscher.html');
     createKeywordLink('Anatolian Shepherd', 'https://www.chiotchaton.com/2023/12/anatolian-shepherd-dog-powerful-and.html');
@@ -131,7 +130,7 @@ function runScript() {
     createKeywordLink('Shar-Pei', 'https://www.chiotchaton.com/2023/12/uncovering-unique-history-and.html');
     createKeywordLink('Tervuren', 'https://www.chiotchaton.com/2023/12/uncovering-unique-traits-and-history-of.html');
     createKeywordLink('Staffordshire', 'https://www.chiotchaton.com/2023/12/understanding-american-staffordshire.html');
-    createKeywordLink('Border', 'https://www.chiotchaton.com/2023/12/understanding-border-terrier-guide-to.html');
+    createKeywordLink('border terrier', 'https://www.chiotchaton.com/2023/12/understanding-border-terrier-guide-to.html');
     createKeywordLink('Bullmastiff', 'https://www.chiotchaton.com/2023/12/understanding-bullmastiff-guide-to.html');
     createKeywordLink('Hound', 'https://www.chiotchaton.com/2023/12/unraveling-elegance-and-grace-of-afghan.html');
     createKeywordLink('Basenji', 'https://www.chiotchaton.com/2023/12/unraveling-mysteries-of-basenji-guide.html');
