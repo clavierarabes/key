@@ -62,7 +62,7 @@ function runScript() {
     createKeywordLink('Rare Dog', 'https://www.chiotchaton.com/2023/11/Rare-and-Refined-Less-Common-Dogs.html');
     createKeywordLink('Large Dog', 'https://www.chiotchaton.com/2023/11/Size-Matters-Large-Dog-Breeds.html');
     createKeywordLink('Small Dog', 'https://www.chiotchaton.com/2023/11/Small-But-Mighty-Dog-Breeds.html');
-    createKeywordLink('Toy', 'https://www.chiotchaton.com/2023/11/Teacup-Treasures-Delightful-Toy-Dogs.html');
+    createKeywordLink('Toy Dogs', 'https://www.chiotchaton.com/2023/11/Teacup-Treasures-Delightful-Toy-Dogs.html');
     createKeywordLink('Big dog', 'https://www.chiotchaton.com/2023/11/Tiny-Tails-Big-Hearts.html');
     createKeywordLink('Small Dog', 'https://www.chiotchaton.com/2023/11/Tiny-Wonders-Small-Dog-Breeds.html');
     createKeywordLink('Bold dog', 'https://www.chiotchaton.com/2023/11/Tiny-but-Tough-Bold-Small-Dog-Breeds.html');
