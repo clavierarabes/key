@@ -141,7 +141,7 @@ function runScript() {
     createKeywordLink('Entlebucher Mountain Dog', 'https://www.chiotchaton.com/2024/01/the-entlebucher-mountain-dog-loyal-and.html');
     createKeywordLink('English Toy Spaniel', 'https://www.chiotchaton.com/2024/01/the-history-and-characteristics-of.html');
     createKeywordLink('Eskimo dog', 'https://www.chiotchaton.com/2024/01/the-incredible-adaptability-of-eskimo.html');
-    createKeywordLink('Foxhound', 'https://www.chiotchaton.com/2024/01/uncovering-history-and-characteristics.html');
+    createKeywordLink('English Foxhound', 'https://www.chiotchaton.com/2024/01/uncovering-history-and-characteristics.html');
     createKeywordLink('Finnish Lapphund', 'https://www.chiotchaton.com/2024/01/the-finnish-lapphund-versatile-and.html');
 createKeywordLink('flat-coated retriever', 'https://www.chiotchaton.com/2024/01/the-versatile-and-lovable-flat-coated.html');
 createKeywordLink('French Bulldog', 'https://www.chiotchaton.com/2024/01/the-ultimate-guide-to-french-bulldog.html');
