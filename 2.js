@@ -147,6 +147,10 @@ createKeywordLink('flat-coated retriever', 'https://www.chiotchaton.com/2024/01/
 createKeywordLink('French Bulldog', 'https://www.chiotchaton.com/2024/01/the-ultimate-guide-to-french-bulldog.html');
 createKeywordLink('German Pinscher', 'https://www.chiotchaton.com/2024/01/the-german-pinscher-versatile-and-loyal.html');
 createKeywordLink('German Shepherd', 'https://www.chiotchaton.com/2024/01/the-loyal-and-intelligent-german.html');
+    createKeywordLink('German Shorthaired Pointer', 'https://www.chiotchaton.com/2024/01/the-versatile-german-shorthaired.html');
+createKeywordLink('German Wirehaired Pointer', 'https://www.chiotchaton.com/2024/01/the-versatile-and-loyal-german.html');
+createKeywordLink('Giant Schnauzer', 'https://www.chiotchaton.com/2024/01/the-majestic-giant-schnauzer-complete.html');
+createKeywordLink('Glen of Imaal Terrier', 'https://www.chiotchaton.com/2024/01/uncovering-history-and-characteristics_2.html');
     // Ajoutez autant de mots-clés et de liens que nécessaire
 }
 
