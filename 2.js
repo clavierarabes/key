@@ -135,10 +135,10 @@ function runScript() {
     createKeywordLink('English Springer Spaniels', 'https://www.chiotchaton.com/2024/01/all-you-need-to-know-about-english.html');
     createKeywordLink('Field Spaniel', 'https://www.chiotchaton.com/2024/01/the-alluring-charm-of-field-spaniel.html');
     createKeywordLink('English Bulldog', 'https://www.chiotchaton.com/2024/01/the-british-bulldog-closer-look-at.html');
+	createKeywordLink('British Bulldog', 'https://www.chiotchaton.com/2024/01/the-british-bulldog-closer-look-at.html');
     createKeywordLink('Shepherd versatile', 'https://www.chiotchaton.com/2024/01/the-dutch-shepherd-versatile-and-loyal.html');
     createKeywordLink('English Cocker Spaniel', 'https://www.chiotchaton.com/2024/01/the-english-cocker-spaniel-versatile.html');
     createKeywordLink('Entlebucher Mountain Dog', 'https://www.chiotchaton.com/2024/01/the-entlebucher-mountain-dog-loyal-and.html');
-    createKeywordLink('Setter', 'https://www.chiotchaton.com/2024/01/the-graceful-and-intelligent-english.html');
     createKeywordLink('English Toy Spaniel', 'https://www.chiotchaton.com/2024/01/the-history-and-characteristics-of.html');
     createKeywordLink('Eskimo dog', 'https://www.chiotchaton.com/2024/01/the-incredible-adaptability-of-eskimo.html');
     createKeywordLink('Foxhound', 'https://www.chiotchaton.com/2024/01/uncovering-history-and-characteristics.html');
