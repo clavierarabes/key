@@ -15,7 +15,7 @@ function createKeywordLink(keyword, link) {
             // Ne traitez le mot-clé que s'il apparaît une seule fois dans tout le texte
             if (!keywordFound && original.indexOf(keyword) === original.lastIndexOf(keyword)) {
                 keywordFound = true; // Marquer le mot-clé comme trouvé
-                return '<a href="' + link + '" style="color: red;">' + keyword + '</a>';
+                return '<a href="' + link + '" style="color: #cc0000;">' + keyword + '</a>';
             } else {
                 return match;
             }
@@ -153,6 +153,11 @@ createKeywordLink('Giant Schnauzer', 'https://www.chiotchaton.com/2024/01/the-ma
 createKeywordLink('Glen of Imaal Terrier', 'https://www.chiotchaton.com/2024/01/uncovering-history-and-characteristics_2.html');
     createKeywordLink('Labrador Retrievers', 'https://www.chiotchaton.com/2024/01/golden-retrievers-and-labrador.html');
 createKeywordLink('Golden Retrievers', 'https://www.chiotchaton.com/2024/01/10-reasons-why-golden-retrievers-make.html');
+	createKeywordLink('Goldendoodle', 'https://www.chiotchaton.com/2024/01/the-ultimate-guide-to-goldendoodles.html');
+    createKeywordLink('Gordon Setter', 'https://www.chiotchaton.com/2024/01/discovering-beauty-and-intelligence-of.html');
+createKeywordLink('Great Danes', 'https://www.chiotchaton.com/2024/01/everything-you-need-to-know-about-great.html');
+
+	
     // Ajoutez autant de mots-clés et de liens que nécessaire
 }
 
