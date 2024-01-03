@@ -153,6 +153,7 @@ createKeywordLink('Giant Schnauzer', 'https://www.chiotchaton.com/2024/01/the-ma
 createKeywordLink('Glen of Imaal Terrier', 'https://www.chiotchaton.com/2024/01/uncovering-history-and-characteristics_2.html');
     createKeywordLink('Labrador Retrievers', 'https://www.chiotchaton.com/2024/01/golden-retrievers-and-labrador.html');
 createKeywordLink('Golden Retrievers', 'https://www.chiotchaton.com/2024/01/10-reasons-why-golden-retrievers-make.html');
+	createKeywordLink('Goldendoodles', 'https://www.chiotchaton.com/2024/01/the-ultimate-guide-to-goldendoodles.html');
 	createKeywordLink('Goldendoodle', 'https://www.chiotchaton.com/2024/01/the-ultimate-guide-to-goldendoodles.html');
     createKeywordLink('Gordon Setter', 'https://www.chiotchaton.com/2024/01/discovering-beauty-and-intelligence-of.html');
 createKeywordLink('Great Danes', 'https://www.chiotchaton.com/2024/01/everything-you-need-to-know-about-great.html');
