@@ -130,7 +130,7 @@ function runScript() {
     createKeywordLink('Staffordshire', 'https://www.chiotchaton.com/2023/12/understanding-american-staffordshire.html');
     createKeywordLink('border terrier', 'https://www.chiotchaton.com/2023/12/understanding-border-terrier-guide-to.html');
     createKeywordLink('Bullmastiff', 'https://www.chiotchaton.com/2023/12/understanding-bullmastiff-guide-to.html');
-    createKeywordLink('Hound', 'https://www.chiotchaton.com/2023/12/unraveling-elegance-and-grace-of-afghan.html');
+    createKeywordLink('Afghan Hound', 'https://www.chiotchaton.com/2023/12/unraveling-elegance-and-grace-of-afghan.html');
     createKeywordLink('Basenji', 'https://www.chiotchaton.com/2023/12/unraveling-mysteries-of-basenji-guide.html');
     createKeywordLink('English Springer Spaniels', 'https://www.chiotchaton.com/2024/01/all-you-need-to-know-about-english.html');
     createKeywordLink('Field Spaniel', 'https://www.chiotchaton.com/2024/01/the-alluring-charm-of-field-spaniel.html');
