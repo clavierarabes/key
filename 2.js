@@ -151,6 +151,8 @@ createKeywordLink('German Shepherd', 'https://www.chiotchaton.com/2024/01/the-lo
 createKeywordLink('German Wirehaired Pointer', 'https://www.chiotchaton.com/2024/01/the-versatile-and-loyal-german.html');
 createKeywordLink('Giant Schnauzer', 'https://www.chiotchaton.com/2024/01/the-majestic-giant-schnauzer-complete.html');
 createKeywordLink('Glen of Imaal Terrier', 'https://www.chiotchaton.com/2024/01/uncovering-history-and-characteristics_2.html');
+    createKeywordLink('Labrador Retrievers', 'https://www.chiotchaton.com/2024/01/golden-retrievers-and-labrador.html');
+createKeywordLink('Golden Retrievers', 'https://www.chiotchaton.com/2024/01/10-reasons-why-golden-retrievers-make.html');
     // Ajoutez autant de mots-clés et de liens que nécessaire
 }
 
