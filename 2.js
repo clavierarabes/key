@@ -101,7 +101,7 @@ function runScript() {
     createKeywordLink('Cardigan Welsh Corgi', 'https://www.chiotchaton.com/2023/12/the-charming-and-loyal-cardigan-welsh.html');
     createKeywordLink('Australian Terrier', 'https://www.chiotchaton.com/2023/12/the-charming-personality-and-history-of.html');
     createKeywordLink('Chesapeake Bay Retriever', 'https://www.chiotchaton.com/2023/12/the-chesapeake-bay-retriever-loyal-and.html');
-    createKeywordLink('Coonhound', 'https://www.chiotchaton.com/2023/12/the-coonhound-versatile-and-endearing.html');
+    createKeywordLink('Coonhounds', 'https://www.chiotchaton.com/2023/12/the-coonhound-versatile-and-endearing.html');
     createKeywordLink('Dandie Dinmont Terrier', 'https://www.chiotchaton.com/2023/12/the-dandie-dinmont-terrier-unique-breed.html');
     createKeywordLink('Doberman Pinscher', 'https://www.chiotchaton.com/2023/12/the-doberman-pinscher-versatile-and.html');
     createKeywordLink('Brittany Spaniel', 'https://www.chiotchaton.com/2023/12/the-energetic-and-affectionate-brittany.html');
