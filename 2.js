@@ -153,10 +153,13 @@ createKeywordLink('German Wirehaired Pointer', 'https://www.chiotchaton.com/2024
 createKeywordLink('Giant Schnauzer', 'https://www.chiotchaton.com/2024/01/the-majestic-giant-schnauzer-complete.html');
 createKeywordLink('Glen of Imaal Terrier', 'https://www.chiotchaton.com/2024/01/uncovering-history-and-characteristics_2.html');
     createKeywordLink('Labrador Retrievers', 'https://www.chiotchaton.com/2024/01/golden-retrievers-and-labrador.html');
+	createKeywordLink('Labrador Retriever', 'https://www.chiotchaton.com/2024/01/golden-retrievers-and-labrador.html');
 createKeywordLink('Golden Retrievers', 'https://www.chiotchaton.com/2024/01/10-reasons-why-golden-retrievers-make.html');
+	createKeywordLink('Golden Retriever', 'https://www.chiotchaton.com/2024/01/10-reasons-why-golden-retrievers-make.html');
 	createKeywordLink('Goldendoodles', 'https://www.chiotchaton.com/2024/01/the-ultimate-guide-to-goldendoodles.html');
 	createKeywordLink('Goldendoodle', 'https://www.chiotchaton.com/2024/01/the-ultimate-guide-to-goldendoodles.html');
     createKeywordLink('Gordon Setter', 'https://www.chiotchaton.com/2024/01/discovering-beauty-and-intelligence-of.html');
+	createKeywordLink('Gordon Setters', 'https://www.chiotchaton.com/2024/01/discovering-beauty-and-intelligence-of.html');
 createKeywordLink('Great Danes', 'https://www.chiotchaton.com/2024/01/everything-you-need-to-know-about-great.html');
 createKeywordLink('Great Pyrenees', 'https://www.chiotchaton.com/2024/01/the-great-pyrenees-gentle-giant-with.html');
 createKeywordLink('Pyrenean Mountain Dog', 'https://www.chiotchaton.com/2024/01/the-great-pyrenees-gentle-giant-with.html');
@@ -170,7 +173,8 @@ createKeywordLink('Ibizan Hound', 'https://www.chiotchaton.com/2024/01/the-grace
 createKeywordLink('Icelandic Sheepdog', 'https://www.chiotchaton.com/2024/01/the-charming-history-and.html');
     createKeywordLink('Irish Setter', 'https://www.chiotchaton.com/2024/01/the-graceful-and-noble-irish-setter.html');
 createKeywordLink('Irish Terrier', 'https://www.chiotchaton.com/2024/01/the-irish-terrier-fiery-and-loyal.html');
-
+  createKeywordLink('Irish Setters', 'https://www.chiotchaton.com/2024/01/the-graceful-and-noble-irish-setter.html');
+createKeywordLink('Irish Terriers', 'https://www.chiotchaton.com/2024/01/the-irish-terrier-fiery-and-loyal.html');
 
 
 	
