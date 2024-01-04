@@ -159,7 +159,7 @@ createKeywordLink('Golden Retrievers', 'https://www.chiotchaton.com/2024/01/10-r
 createKeywordLink('Great Danes', 'https://www.chiotchaton.com/2024/01/everything-you-need-to-know-about-great.html');
 createKeywordLink('Great Pyrenees', 'https://www.chiotchaton.com/2024/01/the-great-pyrenees-gentle-giant-with.html');
 createKeywordLink('Pyrenean Mountain Dog', 'https://www.chiotchaton.com/2024/01/the-great-pyrenees-gentle-giant-with.html');
-	
+	createKeywordLink('Dutch Shepherd', 'https://www.chiotchaton.com/2024/01/the-dutch-shepherd-versatile-and-loyal.html');
     // Ajoutez autant de mots-clés et de liens que nécessaire
 }
 
