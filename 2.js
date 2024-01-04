@@ -1,5 +1,6 @@
 // Nom du fichier : 1.js
 
+
 // Fonction pour créer un lien avec mot-clé
 function createKeywordLink(keyword, link) {
     var regex = new RegExp('\\b' + keyword + '\\b', 'gi');
