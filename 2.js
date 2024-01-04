@@ -161,6 +161,19 @@ createKeywordLink('Great Danes', 'https://www.chiotchaton.com/2024/01/everything
 createKeywordLink('Great Pyrenees', 'https://www.chiotchaton.com/2024/01/the-great-pyrenees-gentle-giant-with.html');
 createKeywordLink('Pyrenean Mountain Dog', 'https://www.chiotchaton.com/2024/01/the-great-pyrenees-gentle-giant-with.html');
 	createKeywordLink('Dutch Shepherd', 'https://www.chiotchaton.com/2024/01/the-dutch-shepherd-versatile-and-loyal.html');
+createKeywordLink('Greater Swiss Mountain Dog', 'https://www.chiotchaton.com/2024/01/all-about-greater-swiss-mountain-dog.html');
+createKeywordLink('Greyhound racing', 'https://www.chiotchaton.com/2024/01/the-legacy-and-impact-of-greyhound.html');
+createKeywordLink('Harrier Dog', 'https://www.chiotchaton.com/2024/01/majestic-harrier-ultimate-guide-to-this.html');
+    createKeywordLink('Hovawart', 'https://www.chiotchaton.com/2024/01/uncovering-unique-characteristics-of.html');
+createKeywordLink('Huskies', 'https://www.chiotchaton.com/2024/01/10-fascinating-facts-about-huskies-you.html');
+createKeywordLink('Ibizan Hound', 'https://www.chiotchaton.com/2024/01/the-graceful-and-charismatic-ibizan.html');
+createKeywordLink('Icelandic Sheepdog', 'https://www.chiotchaton.com/2024/01/the-charming-history-and.html');
+    createKeywordLink('Irish Setter', 'https://www.chiotchaton.com/2024/01/the-graceful-and-noble-irish-setter.html');
+createKeywordLink('Irish Terrier', 'https://www.chiotchaton.com/2024/01/the-irish-terrier-fiery-and-loyal.html');
+
+
+
+	
     // Ajoutez autant de mots-clés et de liens que nécessaire
 }
 
