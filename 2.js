@@ -94,7 +94,7 @@ function runScript() {
     createKeywordLink('Australian Shepherd', 'https://www.chiotchaton.com/2023/12/the-australian-shepherd-versatile-and.html');
     createKeywordLink('Bearded Collie', 'https://www.chiotchaton.com/2023/12/the-bearded-collie-loyal-and-energetic.html');
     createKeywordLink('Belgian Malinois', 'https://www.chiotchaton.com/2023/12/the-belgian-malinois-understanding.html');
-    createKeywordLink('Coonhound', 'https://www.chiotchaton.com/2023/12/the-black-and-tan-coonhound-versatile.html');
+    createKeywordLink('Black and Tan Coonhound', 'https://www.chiotchaton.com/2023/12/the-black-and-tan-coonhound-versatile.html');
     createKeywordLink('Black Russian Terrier', 'https://www.chiotchaton.com/2023/12/the-black-russian-terrier-majestic-and.html');
     createKeywordLink('Boykin Spaniel', 'https://www.chiotchaton.com/2023/12/the-boykin-spaniel-versatile-and-loyal.html');
     createKeywordLink('Brussels Griffon', 'https://www.chiotchaton.com/2023/12/the-brussels-griffon-charming-and.html');
