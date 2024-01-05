@@ -185,7 +185,9 @@ createKeywordLink('Greyhound racing', 'https://www.chiotchaton.com/2024/01/the-l
 createKeywordLink('Harrier Dog', 'https://www.chiotchaton.com/2024/01/majestic-harrier-ultimate-guide-to-this.html');
     createKeywordLink('Hovawart', 'https://www.chiotchaton.com/2024/01/uncovering-unique-characteristics-of.html');
 createKeywordLink('Huskies', 'https://www.chiotchaton.com/2024/01/10-fascinating-facts-about-huskies-you.html');
+	createKeywordLink('Huskie', 'https://www.chiotchaton.com/2024/01/10-fascinating-facts-about-huskies-you.html');
 createKeywordLink('Ibizan Hound', 'https://www.chiotchaton.com/2024/01/the-graceful-and-charismatic-ibizan.html');
+	createKeywordLink('Ibizan Hounds', 'https://www.chiotchaton.com/2024/01/the-graceful-and-charismatic-ibizan.html');
 createKeywordLink('Icelandic Sheepdog', 'https://www.chiotchaton.com/2024/01/the-charming-history-and.html');
     createKeywordLink('Irish Setter', 'https://www.chiotchaton.com/2024/01/the-graceful-and-noble-irish-setter.html');
 createKeywordLink('Irish Terrier', 'https://www.chiotchaton.com/2024/01/the-irish-terrier-fiery-and-loyal.html');
