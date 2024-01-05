@@ -177,6 +177,9 @@ createKeywordLink('Irish Terrier', 'https://www.chiotchaton.com/2024/01/the-iris
 createKeywordLink('Irish Terriers', 'https://www.chiotchaton.com/2024/01/the-irish-terrier-fiery-and-loyal.html');
 createKeywordLink('Boxer', 'https://www.chiotchaton.com/2024/01/boxer-dogs.html');
 createKeywordLink('Boxers', 'https://www.chiotchaton.com/2024/01/boxer-dogs.html');
+	createKeywordLink('Jack Russell Terriers', 'https://www.chiotchaton.com/2024/01/the-ultimate-guide-to-jack-russell.html');
+createKeywordLink('Elegant Italian', 'https://www.chiotchaton.com/2024/01/the-graceful-and-elegant-italian.html');
+createKeywordLink('Irish Wolfhound', 'https://www.chiotchaton.com/2024/01/unraveling-history-and-characteristics.html');
 
 	
     // Ajoutez autant de mots-clés et de liens que nécessaire
