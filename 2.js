@@ -51,7 +51,7 @@ function runScript() {
     createKeywordLink('Mixed Breed canines', 'https://www.chiotchaton.com/2023/11/Mixed-Breed-Magic-Joy-Adopting-Unique-Canine.html');
     createKeywordLink('Adopting a unique canine', 'https://www.chiotchaton.com/2023/11/Mixed-Breed-Marvels-Delight-Adopting-Unique-Canine.html');
     createKeywordLink('Mixed Breed', 'https://www.chiotchaton.com/2023/11/Mixing-It-Up-Joy-Challenges-Mixed-Breed-Dogs.html');
-    createKeywordLink('Mixed Breed', 'https://www.chiotchaton.com/2023/11/Pocket-Companions-Irresistible-Toy-Breeds.html');
+    
     createKeywordLink('Sized', 'https://www.chiotchaton.com/2023/11/Pocket-Sized-Charms-Enchanting-Toy-Breeds.html');
     createKeywordLink('Unique Breeds', 'https://www.chiotchaton.com/2023/11/Rare-Finds-Unique-Breeds.html');
     createKeywordLink('Exotic Dog', 'https://www.chiotchaton.com/2023/11/Rare-Gems-Exotic-Dog-Breeds.html');
@@ -69,7 +69,7 @@ function runScript() {
     createKeywordLink('boston terriers', 'https://www.chiotchaton.com/2023/12/10-fun-facts-about-boston-terriers-you.html');
     createKeywordLink('Bull Terriers', 'https://www.chiotchaton.com/2023/12/10-things-you-need-to-know-about-bull.html');
     createKeywordLink('Bernese Mountain', 'https://www.chiotchaton.com/2023/12/10-things-you-need-to-know-about.html');
-    createKeywordLink('Companions', 'https://www.chiotchaton.com/2023/12/Choosing-Companions-Matching-Breeds-Lifestyle.html');
+    
     createKeywordLink('Best Breeds', 'https://www.chiotchaton.com/2023/12/Family-Favorites-Best-Breeds-Happy-Family-Life.html');
     createKeywordLink('Mid Sized', 'https://www.chiotchaton.com/2023/12/Medium-Mastery-Navigating-Mid-Sized-Dog-Breeds.html');
     createKeywordLink('affenpinscher', 'https://www.chiotchaton.com/2023/12/affenpinscher.html');
