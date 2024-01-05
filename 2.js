@@ -38,7 +38,9 @@ function runScript() {
     createKeywordLink('Hypoallergenic Dog Breeds', 'https://www.chiotchaton.com/2023/11/Beyond-the-Fluff-Hypoallergenic-Hounds.html');
     createKeywordLink('Large Dog Breeds', 'https://www.chiotchaton.com/2023/11/Big-and-Bold-Dog-Breeds.html');
         createKeywordLink('Dog Dynamics', 'https://www.chiotchaton.com/2023/11/Designer-Dog-Dynamics-Crossbreeding.html');
-    
+    createKeywordLink('Crossbreeding', 'https://www.chiotchaton.com/2023/11/Designer-Dogs-101-Crossbreeding.html');
+    createKeywordLink('crossbreeding', 'https://www.chiotchaton.com/2023/11/Designer-Dogs-in-Focus-Crossbreeding-Trends.html');
+    createKeywordLink('Crossbreeding', 'https://www.chiotchaton.com/2023/11/Designer-Dogs-on-Display-Crossbreeding-Trends.html');
     createKeywordLink('kids', 'https://www.chiotchaton.com/2023/11/Family-Favorite-Dog-Breeds.html');
     createKeywordLink('Furry Fashion', 'https://www.chiotchaton.com/2023/11/Furry-Fashion-Stylish-Designer-Dogs.html');
     createKeywordLink('Guardians', 'https://www.chiotchaton.com/2023/11/Guardians-of-the-Home-Working-Dogs.html');
@@ -71,7 +73,7 @@ function runScript() {
     createKeywordLink('boston terriers', 'https://www.chiotchaton.com/2023/12/10-fun-facts-about-boston-terriers-you.html');
     createKeywordLink('Bull Terriers', 'https://www.chiotchaton.com/2023/12/10-things-you-need-to-know-about-bull.html');
     createKeywordLink('Bernese Mountain', 'https://www.chiotchaton.com/2023/12/10-things-you-need-to-know-about.html');
-    
+    createKeywordLink('Companions', 'https://www.chiotchaton.com/2023/12/Choosing-Companions-Matching-Breeds-Lifestyle.html');
     createKeywordLink('Best Breeds', 'https://www.chiotchaton.com/2023/12/Family-Favorites-Best-Breeds-Happy-Family-Life.html');
     createKeywordLink('Mid Sized', 'https://www.chiotchaton.com/2023/12/Medium-Mastery-Navigating-Mid-Sized-Dog-Breeds.html');
     createKeywordLink('affenpinscher', 'https://www.chiotchaton.com/2023/12/affenpinscher.html');
