@@ -114,6 +114,7 @@ function runScript() {
     createKeywordLink('Chow Chow', 'https://www.chiotchaton.com/2023/12/the-history-and-characteristics-of_31.html');
     createKeywordLink('Collie breed', 'https://www.chiotchaton.com/2023/12/the-history-and-characteristics-of_93.html');
     createKeywordLink('Border Collie', 'https://www.chiotchaton.com/2023/12/the-intelligence-and-versatility-of.html');
+	createKeywordLink('Border Collie', 'https://www.chiotchaton.com/2023/12/the-intelligence-and-versatility-of.html');
     createKeywordLink('Cairn Terrier', 'https://www.chiotchaton.com/2023/12/the-lovable-and-energetic-cairn-terrier.html');
     createKeywordLink('Beagle', 'https://www.chiotchaton.com/2023/12/the-lovable-beagle-guide-to-friendly.html');
     createKeywordLink('Alaskan Malamute', 'https://www.chiotchaton.com/2023/12/the-majestic-alaskan-malamute-look-into.html');
@@ -125,6 +126,12 @@ function runScript() {
     createKeywordLink('American Bulldog', 'https://www.chiotchaton.com/2023/12/the-mighty-american-bulldog-everything.html');
     createKeywordLink('Bloodhound', 'https://www.chiotchaton.com/2023/12/the-mighty-bloodhound-look-into-history.html');
     createKeywordLink('Pit Bull', 'https://www.chiotchaton.com/2023/12/the-misunderstood-breed-exploring-truth.html');
+	createKeywordLink('Cane Corsos', 'https://www.chiotchaton.com/2023/12/the-majestic-cane-corso-guide-to-regal.html');
+    createKeywordLink('Clumber Spaniels', 'https://www.chiotchaton.com/2023/12/the-majestic-clumber-spaniel-guide-to.html');
+    createKeywordLink('American Bulldogs', 'https://www.chiotchaton.com/2023/12/the-mighty-american-bulldog-everything.html');
+    createKeywordLink('Bloodhounds', 'https://www.chiotchaton.com/2023/12/the-mighty-bloodhound-look-into-history.html');
+    createKeywordLink('Pit Bulls', 'https://www.chiotchaton.com/2023/12/the-misunderstood-breed-exploring-truth.html');
+	
     createKeywordLink('Chihuahuas', 'https://www.chiotchaton.com/2023/12/the-ultimate-guide-to-caring-for-your.html');
     createKeywordLink('Chinese Crested', 'https://www.chiotchaton.com/2023/12/the-unique-and-beautiful-chinese.html');
     createKeywordLink('Briard', 'https://www.chiotchaton.com/2023/12/the-versatile-and-loyal-briard-breed.html');
