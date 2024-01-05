@@ -1,6 +1,5 @@
 // Nom du fichier : 1.js
 
-
 // Fonction pour créer un lien avec mot-clé
 function createKeywordLink(keyword, link) {
     var regex = new RegExp('\\b' + keyword + '\\b', 'gi');
@@ -15,11 +14,13 @@ function createKeywordLink(keyword, link) {
         var newContent = paragraphContent.replace(regex, function (match, offset, original) {
             // Ne traitez le mot-clé que s'il apparaît une seule fois dans tout le texte
             if (!keywordFound && original.indexOf(keyword) === original.lastIndexOf(keyword)) {
-                keywordFound = true; // Marquer le mot-clé comme trouvé
-                return '<a href="' + link + '" style="color: #cc0000;">' + keyword + '</a>';
-            } else {
-                return match;
+                // Assurez-vous que le mot-clé ne se trouve pas dans le lien lui-même
+                if (!link.includes(keyword)) {
+                    keywordFound = true; // Marquer le mot-clé comme trouvé
+                    return '<a href="' + link + '" style="color: #cc0000;">' + keyword + '</a>';
+                }
             }
+            return match;
         });
 
         paragraph.innerHTML = newContent;
@@ -49,7 +50,8 @@ function runScript() {
     createKeywordLink('Big Dog Breeds', 'https://www.chiotchaton.com/2023/11/Large-and-Lovable-Endearing-Big-Dog-Breeds.html');
     createKeywordLink('Companions', 'https://www.chiotchaton.com/2023/11/Lifestyle-Companions-Matching-Breeds-Daily-Routine.html');
     createKeywordLink('Mixed Breed canines', 'https://www.chiotchaton.com/2023/11/Mixed-Breed-Magic-Joy-Adopting-Unique-Canine.html');
-    createKeywordLink('Adopting a unique canine', 'https://www.chiotchaton.com/2023/11/Mixed-Breed-Marvels-Delight-Adopting-Unique-Canine.html');
+    createKeywordLink('Mixed Breed', 'https://www.chiotchaton.com/2023/11/Mixed-Breed-Magic-Joy-Adopting-Unique-Canine.html');
+    createKeywordLink('Adopting', 'https://www.chiotchaton.com/2023/11/Mixed-Breed-Marvels-Delight-Adopting-Unique-Canine.html');
     createKeywordLink('Mixed Breed', 'https://www.chiotchaton.com/2023/11/Mixing-It-Up-Joy-Challenges-Mixed-Breed-Dogs.html');
     
     createKeywordLink('Sized', 'https://www.chiotchaton.com/2023/11/Pocket-Sized-Charms-Enchanting-Toy-Breeds.html');
@@ -181,6 +183,9 @@ createKeywordLink('Irish Wolfhound', 'https://www.chiotchaton.com/2024/01/unrave
 createKeywordLink('Weight Loss', 'https://www.chiotchaton.com/2024/01/dog-weight-loss-program_5.html');
 createKeywordLink('weight reduction plan', 'https://www.chiotchaton.com/2024/01/creating-weight-reduction-plan-for-dogs.html');
 createKeywordLink('weight loss program', 'https://www.chiotchaton.com/2024/01/dog-weight-loss-program.html');
+
+
+
 	
     // Ajoutez autant de mots-clés et de liens que nécessaire
 }
