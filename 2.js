@@ -53,7 +53,7 @@ function runScript() {
     createKeywordLink('Mixed Breed', 'https://www.chiotchaton.com/2023/11/Mixed-Breed-Magic-Joy-Adopting-Unique-Canine.html');
     createKeywordLink('Adopting', 'https://www.chiotchaton.com/2023/11/Mixed-Breed-Marvels-Delight-Adopting-Unique-Canine.html');
     createKeywordLink('Mixed Breed', 'https://www.chiotchaton.com/2023/11/Mixing-It-Up-Joy-Challenges-Mixed-Breed-Dogs.html');
-    
+    createKeywordLink('Mixed Breed', 'https://www.chiotchaton.com/2023/11/Pocket-Companions-Irresistible-Toy-Breeds.html')
     createKeywordLink('Sized', 'https://www.chiotchaton.com/2023/11/Pocket-Sized-Charms-Enchanting-Toy-Breeds.html');
     createKeywordLink('Unique Breeds', 'https://www.chiotchaton.com/2023/11/Rare-Finds-Unique-Breeds.html');
     createKeywordLink('Exotic Dog', 'https://www.chiotchaton.com/2023/11/Rare-Gems-Exotic-Dog-Breeds.html');
