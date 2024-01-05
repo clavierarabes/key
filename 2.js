@@ -150,6 +150,13 @@ createKeywordLink('flat-coated retriever', 'https://www.chiotchaton.com/2024/01/
 createKeywordLink('French Bulldog', 'https://www.chiotchaton.com/2024/01/the-ultimate-guide-to-french-bulldog.html');
 createKeywordLink('German Pinscher', 'https://www.chiotchaton.com/2024/01/the-german-pinscher-versatile-and-loyal.html');
 createKeywordLink('German Shepherd', 'https://www.chiotchaton.com/2024/01/the-loyal-and-intelligent-german.html');
+	 createKeywordLink('Eskimo dogs', 'https://www.chiotchaton.com/2024/01/the-incredible-adaptability-of-eskimo.html');
+    createKeywordLink('English Foxhounds', 'https://www.chiotchaton.com/2024/01/uncovering-history-and-characteristics.html');
+    createKeywordLink('Finnish Lapphunds', 'https://www.chiotchaton.com/2024/01/the-finnish-lapphund-versatile-and.html');
+createKeywordLink('flat-coated retrievers', 'https://www.chiotchaton.com/2024/01/the-versatile-and-lovable-flat-coated.html');
+createKeywordLink('French Bulldogs', 'https://www.chiotchaton.com/2024/01/the-ultimate-guide-to-french-bulldog.html');
+createKeywordLink('German Pinschers', 'https://www.chiotchaton.com/2024/01/the-german-pinscher-versatile-and-loyal.html');
+createKeywordLink('German Shepherds', 'https://www.chiotchaton.com/2024/01/the-loyal-and-intelligent-german.html');
     createKeywordLink('German Shorthaired Pointer', 'https://www.chiotchaton.com/2024/01/the-versatile-german-shorthaired.html');
 createKeywordLink('German Wirehaired Pointer', 'https://www.chiotchaton.com/2024/01/the-versatile-and-loyal-german.html');
 createKeywordLink('Giant Schnauzer', 'https://www.chiotchaton.com/2024/01/the-majestic-giant-schnauzer-complete.html');
