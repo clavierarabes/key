@@ -48,8 +48,8 @@ function runScript() {
     createKeywordLink('Dog breed', 'https://www.chiotchaton.com/2023/11/Introduction-to-Dog-Breeds-Guide.html');
     createKeywordLink('Big Dog Breeds', 'https://www.chiotchaton.com/2023/11/Large-and-Lovable-Endearing-Big-Dog-Breeds.html');
     createKeywordLink('Companions', 'https://www.chiotchaton.com/2023/11/Lifestyle-Companions-Matching-Breeds-Daily-Routine.html');
-    createKeywordLink('Mixed Breed', 'https://www.chiotchaton.com/2023/11/Mixed-Breed-Magic-Joy-Adopting-Unique-Canine.html');
-    createKeywordLink('Adopting', 'https://www.chiotchaton.com/2023/11/Mixed-Breed-Marvels-Delight-Adopting-Unique-Canine.html');
+    createKeywordLink('Mixed Breed canines', 'https://www.chiotchaton.com/2023/11/Mixed-Breed-Magic-Joy-Adopting-Unique-Canine.html');
+    createKeywordLink('Adopting a unique canine', 'https://www.chiotchaton.com/2023/11/Mixed-Breed-Marvels-Delight-Adopting-Unique-Canine.html');
     createKeywordLink('Mixed Breed', 'https://www.chiotchaton.com/2023/11/Mixing-It-Up-Joy-Challenges-Mixed-Breed-Dogs.html');
     createKeywordLink('Mixed Breed', 'https://www.chiotchaton.com/2023/11/Pocket-Companions-Irresistible-Toy-Breeds.html');
     createKeywordLink('Sized', 'https://www.chiotchaton.com/2023/11/Pocket-Sized-Charms-Enchanting-Toy-Breeds.html');
