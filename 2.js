@@ -180,7 +180,7 @@ createKeywordLink('Boxers', 'https://www.chiotchaton.com/2024/01/boxer-dogs.html
 	createKeywordLink('Jack Russell Terriers', 'https://www.chiotchaton.com/2024/01/the-ultimate-guide-to-jack-russell.html');
 createKeywordLink('Elegant Italian', 'https://www.chiotchaton.com/2024/01/the-graceful-and-elegant-italian.html');
 createKeywordLink('Irish Wolfhound', 'https://www.chiotchaton.com/2024/01/unraveling-history-and-characteristics.html');
-createKeywordLink('Dog Weight Loss', 'https://www.chiotchaton.com/2024/01/dog-weight-loss-program_5.html');
+createKeywordLink('Weight Loss', 'https://www.chiotchaton.com/2024/01/dog-weight-loss-program_5.html');
 createKeywordLink('weight reduction plan', 'https://www.chiotchaton.com/2024/01/creating-weight-reduction-plan-for-dogs.html');
 createKeywordLink('weight loss program', 'https://www.chiotchaton.com/2024/01/dog-weight-loss-program.html');
 	
