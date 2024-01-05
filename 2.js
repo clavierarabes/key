@@ -114,7 +114,8 @@ function runScript() {
     createKeywordLink('Chow Chow', 'https://www.chiotchaton.com/2023/12/the-history-and-characteristics-of_31.html');
     createKeywordLink('Collie breed', 'https://www.chiotchaton.com/2023/12/the-history-and-characteristics-of_93.html');
     createKeywordLink('Border Collie', 'https://www.chiotchaton.com/2023/12/the-intelligence-and-versatility-of.html');
-	createKeywordLink('Border Collie', 'https://www.chiotchaton.com/2023/12/the-intelligence-and-versatility-of.html');
+	createKeywordLink('Border Collies', 'https://www.chiotchaton.com/2023/12/the-intelligence-and-versatility-of.html');
+	
     createKeywordLink('Cairn Terrier', 'https://www.chiotchaton.com/2023/12/the-lovable-and-energetic-cairn-terrier.html');
     createKeywordLink('Beagle', 'https://www.chiotchaton.com/2023/12/the-lovable-beagle-guide-to-friendly.html');
     createKeywordLink('Alaskan Malamute', 'https://www.chiotchaton.com/2023/12/the-majestic-alaskan-malamute-look-into.html');
