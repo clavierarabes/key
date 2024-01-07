@@ -204,8 +204,8 @@ createKeywordLink('Weight Loss', 'https://www.chiotchaton.com/2024/01/dog-weight
 createKeywordLink('weight reduction plan', 'https://www.chiotchaton.com/2024/01/creating-weight-reduction-plan-for-dogs.html');
 createKeywordLink('weight loss program', 'https://www.chiotchaton.com/2024/01/dog-weight-loss-program.html');
 createKeywordLink('Dog Lose Weight', 'https://www.chiotchaton.com/2024/01/how-to-help-dog-lose-weight.html');
-
-
+createKeywordLink('Diet', 'https://www.chiotchaton.com/search/label/DogDiet');
+createKeywordLink('Diets', 'https://www.chiotchaton.com/search/label/DogDiet');
 	
     // Ajoutez autant de mots-clés et de liens que nécessaire
 }
