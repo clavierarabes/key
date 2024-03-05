@@ -37,7 +37,7 @@ function checkRanking(query) {
     var title = results[i].querySelector('.DKV0Md').textContent;
     var url = results[i].querySelector('.DKV0Md cite').textContent;
 
-    if (url.includes('clavier-arabe.co')) {
+    if (url.includes('clavier-arabe.org')) {
       // Our website is in the top 10 results!
       return true;
     }
@@ -50,7 +50,7 @@ function checkRanking(query) {
 // Finally, we need to create a function that will run the script automatically in the background.
 function runScript() {
   // Create an array of search queries.
-  var queries = ['clavier arabe', 'clavier arabe en ligne', 'clavier arabe 2023'];
+  var queries = ['clavier arabe intelligent', 'clavier arabe en ligne', 'clavier arabe 2024'];
 
   // Loop through the search queries.
   for (var i = 0; i < queries.length; i++) {
