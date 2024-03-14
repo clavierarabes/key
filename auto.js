@@ -6,7 +6,7 @@ function randomDelay() {
 // Function to click on internal links
 function clickInternalLinks() {
     // Get all internal links on the page
-    const internalLinks = Array.from(document.querySelectorAll('a[href*="clavier-arabe.co"]:not([target])')); // Only select internal links without target attribute
+    const internalLinks = Array.from(document.querySelectorAll('a[href*="/"]:not([target])')); // Only select internal links without target attribute
 
     // If there are no internal links, return
     if (internalLinks.length === 0) return;
